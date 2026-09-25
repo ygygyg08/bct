@@ -3902,9 +3902,10 @@ https://fta4-cdn-flr.visionplus.id/out/v1/85b02e02587747058c1940af6aa3d0fa/index
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=NHK World Premium
-#EXTINF:-1 tvg-id="NHK.World.Premium.id" tvg-name="NHK World Premium" tvg-logo="https://22.github.io/logo/international/nhkwp.jpg" group-title="WORLD TV",NHK WORLD PREMIUM (V+)
-###https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=112
+#EXTINF:-1 tvg-id="NHK.World.Premium.id" tvg-name="NHK World Premium" tvg-logo="https://22.github.io/logo/international/nhkwp.jpg" group-title="WORLD TV",2 NHK WORLD PREMIUM (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
 
 #======================================================== NHK WORLD JAPAN ====================================================================
 
